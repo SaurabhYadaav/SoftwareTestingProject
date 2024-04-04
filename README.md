@@ -8,4 +8,5 @@ Project #1 - Testcase and Test Plan for App.vwo.com
 |--------------|-------------|------------|
 | Project 1    | Tested a web application for functionality and usability. | Test Plan, Test cases|
 
-![image](https://github.com/SaurabhYadaav/SoftwareTestingProject/assets/165445551/9cfabd7c-86e9-4c9e-a440-f6798c90de45)
+
+![Screenshot 2024-04-04 at 7 01 29 PM](https://github.com/SaurabhYadaav/SoftwareTestingProject/assets/165445551/17da9f5a-d4f0-4c03-8983-a7a680b5215c)
