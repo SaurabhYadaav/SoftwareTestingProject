@@ -1,6 +1,7 @@
 # SoftwareTestingProject
 Project #1 - Testcase and Test Plan for App.vwo.com
-,Project #2 - Testcase for opencart-https://awesomeqa.com/ui/index.php?route=account/register
+
+Project #2 - Testcase for opencart-https://awesomeqa.com/ui/index.php?route=account/register
 
 1. Test Plan
 2. Test Cases
